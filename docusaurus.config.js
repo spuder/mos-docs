@@ -148,8 +148,8 @@ const config = {
 
   themeConfig: {
     announcementBar: {
-      id: 'release-0.5.0-stable',
-      content: '🎉 <strong>MOS 0.5.0-stable is out!</strong> — First stable release! 🐧 Kernel 6.18.38, 📦 Node.js 24.18.0 LTS, Virtual Pools, SMART acknowledge, Plugins from Gitea/Codeberg &nbsp;<a href="https://docs.mos-official.net/docs/Release-Notes/Stable/0.5.0-stable" style="color:#ffffff;">Release Notes →</a>',
+      id: 'release-0.5.5-stable',
+      content: '🎉 <strong>MOS 0.5.5-stable is out!</strong> — NUT integration, Disk Descriptions, LXC Host Mounts, VM CPU Pinning, Admin Token Permissions  <a href="https://docs.mos-official.net/docs/Release-Notes/Stable/0.5.5-stable" style="color:#ffffff;">Release Notes →</a>',
       backgroundColor: '#fa9725',
       textColor: '#ffffff',
       isCloseable: true,
