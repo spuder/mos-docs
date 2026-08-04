@@ -148,8 +148,8 @@ const config = {
 
   themeConfig: {
     announcementBar: {
-      id: 'release-0.5.5-stable',
-      content: '🎉 <strong>MOS 0.5.5-stable is out!</strong> — NUT integration, Disk Descriptions, LXC Host Mounts, VM CPU Pinning, Admin Token Permissions  <a href="https://docs.mos-official.net/docs/Release-Notes/Stable/0.5.5-stable" style="color:#ffffff;">Release Notes →</a>',
+      id: 'release-0.5.6-stable',
+      content: '🎉 <strong>MOS 0.5.6-stable is out!</strong> — IPv6 DHCP fix, SLAAC/DHCP/Static IPv6 WebUI, NUT init script fix, VM disk size editing regression fix, DMA kernel fix  <a href="https://docs.mos-official.net/docs/Release-Notes/Stable/0.5.6-stable" style="color:#ffffff;">Release Notes →</a>',
       backgroundColor: '#fa9725',
       textColor: '#ffffff',
       isCloseable: true,
